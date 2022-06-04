@@ -1,0 +1,11 @@
+Title: The field for entering email and password when logging into a personal account is not active 
+Environment:  Windows 10, Home Version 
+Preconditions: Open qwerty.exe 
+STR:
+1. Enter email 
+2. Enter password  
+Expected Result: The input field is blocked  
+Actual Result: The input field allows you to enter data for authorization 
+Attachments: qwerty.jpg   
+Priority: Blocker 
+Severity: High 
