@@ -1,0 +1,7 @@
+Скиллы:
+GitBash
+Postman
+SQL
+Android Studio
+Python
+Charles
